@@ -1,5 +1,5 @@
 { 
-  "command": "open",        
+  "command": "close",        
   "message": "Merhaba! Script başlatılıyor.",
   "version": "1.0.0"
 }
